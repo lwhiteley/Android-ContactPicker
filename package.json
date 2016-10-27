@@ -1,0 +1,19 @@
+{
+  "name": "android-contactpicker",
+  "version": "1.0.0",
+  "description": "[![License](https://img.shields.io/badge/license-Apache%202-blue.svg)](https://www.apache.org/licenses/LICENSE-2.0)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lwhiteley/Android-ContactPicker.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lwhiteley/Android-ContactPicker/issues"
+  },
+  "homepage": "https://github.com/lwhiteley/Android-ContactPicker#readme"
+}
